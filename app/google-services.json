@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "325814514847",
+    "firebase_url": "https://psicologa-abaad.firebaseio.com",
+    "project_id": "psicologa-abaad",
+    "storage_bucket": "psicologa-abaad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325814514847:android:12a92df5e3d5255c",
+        "android_client_info": {
+          "package_name": "com.demo.steven.psicologa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325814514847-p2jmhhuh96vciua76ot2kv1bnuscl2a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.steven.psicologa",
+            "certificate_hash": "7ee5acc7397e95679412772cb6c804d3c6503c7d"
+          }
+        },
+        {
+          "client_id": "325814514847-r3mehlqg7odr16mde9pu54dl726mjf9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj3BmXvFUTmvUTFmfCDer6kCCvKOld1Cg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325814514847-r3mehlqg7odr16mde9pu54dl726mjf9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
